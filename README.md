@@ -3,27 +3,27 @@
 
 Nesse projeto temos as seguintes features:
 
-<br>
- - **id**: Identificação do paciente<br>
- - **sex**: Sexo do Paciente (0 - Homem / 1 - Mulher) <br>
- - **patient_type**: Se o paciente foi dispensado para casa (1) ou se foi internado (0) <br>
- - **intubed**: Seo paciente foi intubado ou não<br>
- - **pneumonia**: Se o paciente apresentou pneumonia ou não<br>
- - **age**: Idade do Paciente<br>
- - **pregnancy**: Se a paciente estava grávida ou não (para pacientes mulheres)<br>
- - **diabetes**: Se o paciente tem diabetes ou não<br>
- - **copd**: Se opaciente tem COPD ou não<br>
- - **asthma**: Se o paciente tem Asma ou não<br>
- - **inmsupr**: Se o paciente apresentou Imunosupressão ou não<br>
- - **hypertension**: Se o paciente tem hipertensão ou não<br>
- - **ohter_disease**: Se o paciente tem outras doenças ou não<br>
- - **cardiovascular**: Se o paciente tem doenças cardiácas ou não<br>
- - **obesity**: Se o paciente tem obesidade ou não<br>
- - **renal_chronic**: Se o paciente tem problemas renais ou não<br>
- - **tobacco**: Se o paciente é fumante ou não<br>
- - **contact_other_covid**: Se o paciente teve contato com outras pessoas diagnosticadas com covid<br>
- - **icu**: Se o paciente precisou ser internado na UTI<br>
- - **covid_res**: Se o resultado do teste foi Positivo ou Negativo<br>
+
+ - id: Identificação do paciente
+ - sex: Sexo do Paciente (0 - Homem / 1 - Mulher) 
+ - patient_type: Se o paciente foi dispensado para casa (1) ou se foi internado (0) 
+ - intubed: Seo paciente foi intubado ou não
+ - pneumonia: Se o paciente apresentou pneumonia ou não
+ - age: Idade do Paciente
+ - pregnancy: Se a paciente estava grávida ou não (para pacientes mulheres)
+ - diabetes: Se o paciente tem diabetes ou não
+ - copd: Se opaciente tem COPD ou não
+ - asthma: Se o paciente tem Asma ou não
+ - inmsupr: Se o paciente apresentou Imunosupressão ou não
+ - hypertension: Se o paciente tem hipertensão ou não
+ - ohter_disease: Se o paciente tem outras doenças ou não
+ - cardiovascular: Se o paciente tem doenças cardiácas ou não
+ - obesity: Se o paciente tem obesidade ou não
+ - renal_chronic: Se o paciente tem problemas renais ou não
+ - tobacco: Se o paciente é fumante ou não
+ - contact_other_covid: Se o paciente teve contato com outras pessoas diagnosticadas com covid
+ - icu: Se o paciente precisou ser internado na UTI
+ - covid_res: Se o resultado do teste foi Positivo ou Negativo
 
 As etapas do projeto consistiram em:
 
@@ -38,6 +38,7 @@ As etapas do projeto consistiram em:
     - Adaboost
     - Regressão Logística
     - XGBoost
+    - Alterando os threshold
 - Passo 4: Treinamento com a base completa e conclusão
     - Treinamento com a base completa
     - Conclusão
