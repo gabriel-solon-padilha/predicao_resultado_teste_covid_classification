@@ -1,5 +1,5 @@
 # projeto_9_predicao_resultado_teste_covid
- Meu 9 projeto de machilearning em que o objetivo era tentar predizer o resultado de um teste de covid.
+ Meu 9 projeto de machine learning em que o objetivo era tentar predizer o resultado de um teste de covid.
 
 Nesse projeto temos as seguintes features:
 
