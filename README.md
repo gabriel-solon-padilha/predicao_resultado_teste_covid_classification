@@ -38,7 +38,7 @@ As etapas do projeto consistiram em:
     - Adaboost
     - Regressão Logística
     - XGBoost
-    - Alterando os threshold
+    - Alteração de threshold
 - Passo 4: Treinamento com a base completa e conclusão
     - Treinamento com a base completa
     - Conclusão
